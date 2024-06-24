@@ -1,7 +1,8 @@
 import { Typography, Card } from "@material-tailwind/react";
+import Shohruh from "./components/shoxrux";
 
 export default function App() {
   return (
-    <h1>Lorem, ipsum dolor.</h1>
+    <Shohruh />
   );
 }
